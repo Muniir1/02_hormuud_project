@@ -1,0 +1,6 @@
+Primarycolor
+#01A550
+Secodarycolor
+#01A550
+
+#222529
